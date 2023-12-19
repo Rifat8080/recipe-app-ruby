@@ -2,6 +2,6 @@
 # exit on error
 set -o errexit
 
-/opt/render/project/.gems/bin/bundle install
-/opt/render/project/.gems/bin/rails assets:precompile
-/opt/render/project/.gems/bin/rails assets:clean
+bundle install
+./bin/rails assets:precompile
+./bin/rails rake assets:clean
