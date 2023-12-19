@@ -2,8 +2,12 @@
   display: flex;
 }
 
+.ul li{
+  list-style: none;
+}
+
 .active-link {
-  color: #fff;
+  color: #db0909;
 }
 
 .toggle-checkbox {
