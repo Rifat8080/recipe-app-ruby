@@ -1,3 +1,9 @@
+/* stylelint-disable function-calc-no-unspaced-operator */
+/* stylelint-disable csstree/validator */
+/* stylelint-disable property-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable no-descending-specificity */
+/* stylelint-disable declaration-block-single-line-max-declarations */
 /*! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com*/*,
 ::after,
 ::before { border: 0 solid #e5e7eb; box-sizing: border-box; }
