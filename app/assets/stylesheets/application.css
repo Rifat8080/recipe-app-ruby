@@ -1,9 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 #recipe-popup:target {
   display: flex;
-}
-
-.ul li {
-  list-style: none;
 }
 
 .active-link {
